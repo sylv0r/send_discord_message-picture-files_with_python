@@ -64,13 +64,6 @@ sylvOr the 5 March 2023
 
 
 
-
-## Source
-
-* [Codium](https://www.youtube.com/watch?v=DArlLAq56Mo&ab_channel=Codium) for the screen
-
-
-
 ## License
 
 This project is licensed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License) - see the LICENSE.md file for details
